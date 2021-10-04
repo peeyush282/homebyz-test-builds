@@ -1,0 +1,24 @@
+
+// &variable
+$primary_color:#A3191E;
+$light-color:#8B8A8A;
+$dark-color:#535353;
+// $pink_text:#FFF2F2;
+$pink_text:#F2F2F2;
+$white:#ffffff;
+$black:#000000;
+$light_gray:#EFEFEF;
+$dark_gray:#2E2E2E;
+$red:#A3191E;
+$dark_red:#A3191E;
+$green:#49BB24;
+$tablecolor:#F6F6F6;
+$title:#404040;
+$theme_Red:#EB1018;
+
+// mixin
+@mixin box-shadow {
+    box-shadow: 0px 2px 4px #ddd;
+    -webkit-box-shadow: 0px 2px 4px #ddd;
+    -moz-box-shadow: 0px 2px 4px #ddd;
+}

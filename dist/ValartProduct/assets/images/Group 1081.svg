@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="12" viewBox="0 0 15 12">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="15" height="12" transform="translate(0 -0.047)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1081" data-name="Group 1081" transform="translate(0 0.047)">
+    <g id="Group_5" data-name="Group 5">
+      <g id="Group_3" data-name="Group 3" clip-path="url(#clip-path)">
+        <path id="Path_2" data-name="Path 2" d="M0,3.319H3.319V0H0ZM.879.879H2.44V2.44H.879Zm0,0"/>
+      </g>
+      <g id="Group_4" data-name="Group 4" clip-path="url(#clip-path)">
+        <path id="Path_3" data-name="Path 3" d="M149.3,0V3.319h10.626V0Zm9.747,2.44h-8.868V.879h8.868Zm0,0" transform="translate(-144.926)"/>
+      </g>
+    </g>
+    <path id="Path_4" data-name="Path 4" d="M0,150.319H3.319V147H0Zm.879-2.44H2.44v1.562H.879Zm0,0" transform="translate(0 -142.693)"/>
+    <g id="categories-icon" transform="translate(4.374 4.307)">
+      <path id="Path_5" data-name="Path 5" d="M149.3,150.319h10.626V147H149.3Zm.879-2.44h8.868v1.562h-8.868Zm0,0" transform="translate(-149.3 -147)"/>
+    </g>
+    <path id="Path_6" data-name="Path 6" d="M0,297.319H3.319V294H0Zm.879-2.44H2.44v1.562H.879Zm0,0" transform="translate(0 -285.387)"/>
+    <path id="Path_7" data-name="Path 7" d="M149.3,297.319h10.626V294H149.3Zm.879-2.44h8.868v1.562h-8.868Zm0,0" transform="translate(-144.926 -285.387)"/>
+  </g>
+</svg>
